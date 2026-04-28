@@ -308,15 +308,15 @@ const CityTechLanding = () => {
                 <div className="space-y-6">
                   <div className="flex items-center gap-4">
                     <span className="text-[#00A19E] text-2xl">✉️</span>
-                    <span className="text-white font-medium">solutions@citytechit.com</span>
+                    <span className="text-white font-medium">info@citytechit.com</span>
                   </div>
                   <div className="flex items-center gap-4">
                     <span className="text-[#00A19E] text-2xl">📞</span>
-                    <span className="text-white font-medium">+1 (800) CITY-TECH</span>
+                    <span className="text-white font-medium">01998-006548</span>
                   </div>
                   <div className="flex items-center gap-4">
                     <span className="text-[#00A19E] text-2xl">📍</span>
-                    <span className="text-white font-medium">Silicon Valley Center, CA</span>
+                    <span className="text-white font-medium">Sector-3, Road 2 Plot 34, Uttara( Rajlokkhi), Dhaka, Bangladesh</span>
                   </div>
                 </div>
               </div>
@@ -441,7 +441,7 @@ const CityTechLanding = () => {
 
         <div className="max-w-7xl w-full mx-auto pt-8 border-t border-gray-700 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-gray-400 text-sm">
-            © 2024 City Tech IT. Managed Services & Infrastructure Architects.
+            © 2026 City Tech IT. Managed Services & Infrastructure Architects.
           </p>
           <div className="flex gap-6">
             <span className="text-gray-400 cursor-pointer hover:text-white transition-colors text-2xl">🌐</span>

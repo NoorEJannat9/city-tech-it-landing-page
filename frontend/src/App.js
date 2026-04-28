@@ -1,11 +1,7 @@
-import CityTech from './CityTech'; 
+import CityTechLanding from './CityTechLanding';
 
 function App() {
-  return (
-    <div className="App">
-      <CityTech />
-    </div>
-  );
+  return <CityTechLanding />;
 }
 
 export default App;
